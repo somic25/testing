@@ -1,0 +1,21 @@
+{
+  "id":0,
+  "hostId":0,
+  "roundLimit":0,
+  "players":
+  [
+    {
+      "id":1,
+      "name":"TestName",
+      "color":"asd",
+      "cards": []
+      "selectedCards": []
+      "points":0
+      "isCzar":0
+    }
+  ],
+  "blackCard": null,
+  "hasStarted": 0,
+  "roundWinnerId": null,
+  "roomWinnerId": null
+}
