@@ -8,9 +8,9 @@
       "id":1,
       "name":"TestName",
       "color":"asd",
-      "cards": []
-      "selectedCards": []
-      "points":0
+      "cards": [],
+      "selectedCards": [],
+      "points":0,
       "isCzar":0
     }
   ],
